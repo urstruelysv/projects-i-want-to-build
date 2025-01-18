@@ -1,2 +1,13 @@
-1. chat gpt token visuvalizer |
-something like this - https://platform.openai.com/tokenizer
+# Projects I Want to Build  
+
+### 1. ChatGPT Token Visualizer  
+- **Description**: A tool to visualize how tokens are segmented in text for ChatGPT.  
+- **Inspiration**: Similar to [OpenAI's Tokenizer](https://platform.openai.com/tokenizer).  
+- **Goal**: Help users understand token limits and optimize their prompts for ChatGPT.  
+
+### 2. Chrome Extension: YouTube Playback Speed Controller  
+- **Description**: A Chrome extension that allows users to increase YouTube video playback speed up to 4x.  
+- **Features**:  
+  - Easy-to-use speed control options.  
+  - Seamless integration with YouTube's interface.  
+  - Supports playback speeds ranging from 1x to 4x.  
