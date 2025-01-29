@@ -1,16 +1,26 @@
-# Projects I Want to Build in 2025 
+Here’s the updated list with **AI-Driven Video Production Enhancements** at the top:  
 
-### 1. ChatGPT Token Visualizer  
+---
+
+# Projects I Want to Build in 2025  
+
+### 1. **AI-Driven Video Production Enhancements**  
+- **Description**: AI-powered tools to enhance video production efficiency.  
+- **Features**:  
+  - **AI Voice Cloning for Multilingual Reach**: Convert content into regional Indian languages like Telugu without extra recording.  
+  - **Lip Syncing AI**: Automatically sync translated audio to match lip movements for a more natural viewing experience.  
+- **Inspiration**: AI models like FastText and modern voice cloning techniques.  
+
+### 2. **ChatGPT Token Visualizer**  
 - **Description**: A tool to visualize how tokens are segmented in text for ChatGPT.  
 - **Inspiration**: Similar to [OpenAI's Tokenizer](https://platform.openai.com/tokenizer).  
 - **Goal**: Help users understand token limits and optimize their prompts for ChatGPT.  
 
-### 2. Chrome Extension: YouTube Playback Speed Controller  
+### 3. **Chrome Extension: YouTube Playback Speed Controller**  
 - **Description**: A Chrome extension that allows users to increase YouTube video playback speed up to 4x.  
 - **Features**:  
   - Easy-to-use speed control options.  
   - Seamless integration with YouTube's interface.  
   - Supports playback speeds ranging from 1x to 4x.  
 
-
-https://fasttext.cc/docs/en/supervised-tutorial.html
+### will add more 
